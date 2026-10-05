@@ -1,0 +1,1 @@
+Hardware details: ESP32 code, sensors and circuit diagram.
